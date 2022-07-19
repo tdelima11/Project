@@ -148,6 +148,7 @@
 		<members>Opportunity.MainCompetitors__c</members>
 		<members>Opportunity.OrderNumber__c</members>
 		<members>Opportunity.TrackingNumber__c</members>
+		<members>Case.Clear_Date__c</members>
 		<name>CustomField</name>
 	</types>
 	<types>
